@@ -1,6 +1,6 @@
 Analyse du marché du Bitcoin : Sentiments et Trends
 
-CE PROJET EST EN COURS DE TRAVAIL
+CE PROJET EST EN COURS DE REALISATION
 
 
 Je réalise une analyse du marché du Bitcoin afin de comprendre l'impact des sentiments (Fear & Greed Index) et des tendances sur l'évolution des prix. 
